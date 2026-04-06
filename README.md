@@ -31,9 +31,7 @@ Plaintext
 🚀 How to Run Locally
 Is repository ko clone karein:
 
-Bash
-git clone https://github.com/your-username/your-repo-name.git
-Project folder mein jayein:
+
 
 Bash
 cd your-repo-name
